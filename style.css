@@ -44,3 +44,8 @@ button:active{
 	top:5px;
 	box-shadow:none;
 }
+@media (max-width: 500px){
+  body, input, button{
+    font-size: 15px;
+  }
+}
